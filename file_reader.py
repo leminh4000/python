@@ -1,4 +1,5 @@
 with open('pi_million_digits.txt') as file_object:
+1111
     lines=file_object.readlines()
 pi_string=''
 for line in lines:
